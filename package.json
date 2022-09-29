@@ -1,6 +1,7 @@
 {
   "author": "Abdulhakeem, MUHAMMED",
   "name": "fcc-learn-npm-package-json",
+  "description": "A FCC Back End & Api certification project",
   "dependencies": {
     "express": "^4.14.0"
   },
